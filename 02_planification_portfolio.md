@@ -46,28 +46,28 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 Copier-coller votre objectif de carrière ici. 
 
 # Projet 1 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
+Nom de votre projet: Sweeny    
+Mention académique ou personnel: Académique    
+Réalisé dans le cadre du cours: Web 4       
+Individuel ou en équipe: Individuel    
+Nom de vos coéquipiers: X     
+Votre ou vos rôle(s) dans le projet: Designer de site web    
+Logiciels ou techniques utilisées: Wordpress   
+Catégorie du projet: Site web     
 Description courte du projet (Résumé en 1 phrase):     
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 2 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
+Nom de votre projet: Imparfaite    
+Mention académique ou personnel: Académique    
+Réalisé dans le cadre du cours: Vidéo 2 - 582312MO       
+Individuel ou en équipe: Équipe    
+Nom de vos coéquipiers: Nurlika Richard et Manel Yaya     
+Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore     
+Logiciels ou techniques utilisées: Davinci Resolve   
+Catégorie du projet: Montage Video     
 Description courte du projet (Résumé en 1 phrase):     
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
