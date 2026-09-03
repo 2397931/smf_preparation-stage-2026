@@ -14,7 +14,7 @@ Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoi
 
 # Logiciels 
 Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:     
-- [.] Visual Studio Code
+- [ .] Visual Studio Code
 - [ ] Photoshop
 - [ ] Illustrator
 - [ ] Lightroom
