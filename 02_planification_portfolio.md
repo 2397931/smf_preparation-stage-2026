@@ -1,40 +1,40 @@
 # Compétences
 Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoin.:     
 - [ ] Designer, coder et publier des sites Web dynamiques    
-- [ ] Réaliser et tourner des vidéos    
-- [ ] Animer des créations 2D et 3D    
+- [x] Réaliser et tourner des vidéos    
+- [x] Animer des créations 2D et 3D    
 - [ ] Concevoir des compositions sonores et visuelles interactives    
 - [ ] Assembler des environnements de réalité virtuelle    
 - [ ] Élaborer des spectacles augmentés    
 - [ ] Exploiter les nouvelles technologies et leur potentiel créateur    
 - [ ] Penser et optimiser l’expérience utilisateur    
 - [ ] Créer des univers immersifs et interactifs    
-- [ ] Collaborer avec diverses disciplines artistiques ou interdisciplinaires    
+- [x] Collaborer avec diverses disciplines artistiques ou interdisciplinaires    
 
 
 # Logiciels 
 Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:     
-- [ ] Visual Studio Code
-- [ ] Photoshop
+- [x] Visual Studio Code
+- [x] Photoshop
 - [ ] Illustrator
 - [ ] Lightroom
 - [ ] Premiere
 - [ ] Media Encoder
-- [ ] After Effects
-- [ ] Davinci Resolve
-- [ ] Maya
+- [x] After Effects
+- [x] Davinci Resolve
+- [x] Maya
 - [ ] Unity
 - [ ] Reaper
 - [ ] Ableton Live
 - [ ] Max
 - [ ] Arduino
 - [ ] MadMapper
-- [ ] Microsoft Teams
+- [x] Microsoft Teams
 
 # Langage de programmation
 Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:    
-- [ ] HTML
-- [ ] CSS
+- [x] HTML
+- [x] CSS
 - [ ] JavaScript
 - [ ] PHP
 - [ ] SQL
@@ -75,30 +75,30 @@ Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, .
 
 
 # Projet 3 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
+Nom de votre projet: Hyunjin.aep    
+Mention académique ou personnel: personnel    
+Réalisé dans le cadre du cours: X        
+Individuel ou en équipe: Individuel    
+Nom de vos coéquipiers: X     
+Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore    
+Logiciels ou techniques utilisées: After Effects, Photoshop   
+Catégorie du projet: Montage vidéo     
 Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): X    
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 4
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
+Nom de votre projet: IChooseF5ve.aep    
+Mention académique ou personnel: personnel    
+Réalisé dans le cadre du cours: X       
+Individuel ou en équipe: Individuel    
+Nom de vos coéquipiers: X     
+Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore    
+Logiciels ou techniques utilisées: After Effects   
+Catégorie du projet: Montage vidéo     
 Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): X    
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
