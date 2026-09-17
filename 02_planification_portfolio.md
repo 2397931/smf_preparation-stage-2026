@@ -132,7 +132,15 @@ Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, .
 
 
 # Processus de création
-Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet. 
+Pour le cours de Vidéo 2 - 582312MO, nous devons faire un projet micro montage sur ce que nous voulons. Donc moi, Manel et Nurlika avons décidés de le faire sur un fille qui se trouve imparfaite et essaye de couvrir ses insécurité avec du maquillage mais à la fin l'enlève car, elle se trouve meilleur sans le maquillage. 
 
+Voici nos moodbboards pour le projet.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70927575-8b6d-434b-9fb1-0751591f9f2c" />
+<img width="1920" height="1080" alt="image (1)" src="https://github.com/user-attachments/assets/1154fee3-e741-41d4-a0d0-48a16d804e16" />
+
+
+Ensuite le 14 Septembre 2024, ont a filmer les vidéos pour le vidéo montage :
+
+<img width="1216" height="2078" alt="Capture d’écran 2026-09-17 134913" src="https://github.com/user-attachments/assets/470d280c-d6db-48c3-9a60-a5ee18f1f979" />
 
 
