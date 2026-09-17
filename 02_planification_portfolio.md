@@ -54,9 +54,9 @@ Nom de vos coéquipiers: X
 Votre ou vos rôle(s) dans le projet: Designer de site web    
 Logiciels ou techniques utilisées: Wordpress   
 Catégorie du projet: Site web     
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Description courte du projet (Résumé en 1 phrase): Site web pour une patisserie.    
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Vous devez concevoir un site web WordPress complet pour un client ayant une petite entreprise.     
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai fait une site web pour une petite compagnie de patiesserie. Un site où tous leurs produits sont mis en intérets incluant leurs intérets.    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 2 
@@ -68,8 +68,8 @@ Nom de vos coéquipiers: Nurlika Richard et Manel Yaya
 Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore     
 Logiciels ou techniques utilisées: Davinci Resolve   
 Catégorie du projet: Montage Video     
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
+Description courte du projet (Résumé en 1 phrase): Une fille qui se trouve imparfaite essaie le maquillage, mais réalise que ce n’est pas pour elle.    
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Un micro montage     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
@@ -83,9 +83,9 @@ Nom de vos coéquipiers: X
 Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore    
 Logiciels ou techniques utilisées: After Effects, Photoshop   
 Catégorie du projet: Montage vidéo     
-Description courte du projet (Résumé en 1 phrase):     
+Description courte du projet (Résumé en 1 phrase): Montage Vidéo de hyunjin qui fait partie du group Kpop StrayKids    
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): X    
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Cette création est un montage de Hyunjin du groupe Stray Kids. Je l’ai créé comme cadeau pour une amie qui l’aime beaucoup. Le thème principal du montage est l’argent et le luxe. J’ai utilisé principalement les couleurs rouge, vert et blanc. Le design combine des photos de Hyunjin avec des éléments liés à l’argent pour créer une esthétique stylée.   
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 4
@@ -97,10 +97,10 @@ Nom de vos coéquipiers: X
 Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore    
 Logiciels ou techniques utilisées: After Effects   
 Catégorie du projet: Montage vidéo     
-Description courte du projet (Résumé en 1 phrase):     
+Description courte du projet (Résumé en 1 phrase): Montage video du groupe F5ve    
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): X    
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Un montage de la video I Choose you par le groupe F5ve. Ce montage vidéo fait revivre la nostalgie des années 2010.  
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): X    
 
 # Projet 5 (Optionnel)
 Nom de votre projet:     
