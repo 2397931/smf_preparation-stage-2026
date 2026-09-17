@@ -143,4 +143,8 @@ Ensuite le 14 Septembre 2024, ont a filmer les vidéos pour le vidéo montage :
 
 <img width="1216" height="2078" alt="Capture d’écran 2026-09-17 134913" src="https://github.com/user-attachments/assets/470d280c-d6db-48c3-9a60-a5ee18f1f979" />
 
+La remise était le 14 octobre 2024.
+
+
+
 
