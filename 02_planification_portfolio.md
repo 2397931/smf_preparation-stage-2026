@@ -137,7 +137,7 @@ Ce projet a été créé pour mon portfolio. Tous les choix que j’ai faits pou
 
 Lorsque j’ai vu la vidéo « I Choose You » du groupe japonais F5ve, j’ai tout de suite su que je voulais créer un montage vidéo à partir de celle-ci. J’ai donc commencé par réaliser un moodboard en recherchant des inspirations sur Pinterest. Cela m’a permis de définir le style visuel et l’ambiance que je voulais donner à mon montage.
 
-<img width="1920" height="1080" alt="moodbaord_i_choose_f5ve" src="https://github.com/user-attachments/assets/a04f67c9-aacc-4b04-b099-538d17d30595" />
+<img width="1920" height="1080" alt="moodbaord_i_choose_f5ve" src="https://github.com/user-attachments/assets/afc71135-0f8d-489d-b063-28166a3a2c11" />
 
 Ensuite, après avoir trouvé mes inspirations, j’ai commencé le montage sur le logiciel After Effects. J’ai travaillé sur différents effets et transitions afin de créer un montage qui correspondait au style que j’avais choisi.
 
