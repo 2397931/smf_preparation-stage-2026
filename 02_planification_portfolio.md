@@ -133,7 +133,20 @@ Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, .
 
 # Processus de création
 
+Ce projet a été créé pour mon portfolio. Tous les choix que j’ai faits pour ce montage vidéo ont été réfléchis afin de mettre en valeur mes compétences en montage et en effets visuels.
 
+Lorsque j’ai vu la vidéo « I Choose You » du groupe japonais F5ve, j’ai tout de suite su que je voulais créer un montage vidéo à partir de celle-ci. J’ai donc commencé par réaliser un moodboard en recherchant des inspirations sur Pinterest. Cela m’a permis de définir le style visuel et l’ambiance que je voulais donner à mon montage.
+
+<img width="1920" height="1080" alt="moodbaord_i_choose_f5ve" src="https://github.com/user-attachments/assets/a04f67c9-aacc-4b04-b099-538d17d30595" />
+
+Ensuite, après avoir trouvé mes inspirations, j’ai commencé le montage sur le logiciel After Effects. J’ai travaillé sur différents effets et transitions afin de créer un montage qui correspondait au style que j’avais choisi.
+
+<img width="1916" height="1032" alt="Screenshot 2026-09-21 004256" src="https://github.com/user-attachments/assets/d601bd69-4415-48d4-b2dc-24d638cd73f5" />
+
+Les étapes qui m’ont demandé le plus de temps pour ce montage vidéo ont été le rotobrush des cinq membres du groupe ainsi que la création du haut-parleur. Ce qui était difficile pour le rotobrush était de bien découper les membres dans les 61 frames qu'il y avait.
+
+
+Au total, ce montage vidéo m’a pris quatre jours à réaliser.
 
 
 
