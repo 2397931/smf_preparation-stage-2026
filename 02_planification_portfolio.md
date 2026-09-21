@@ -57,7 +57,7 @@ Catégorie du projet: Site web
 Description courte du projet (Résumé en 1 phrase): Site web pour une patisserie.    
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Vous devez concevoir un site web WordPress complet pour un client ayant une petite entreprise.     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai créé un site Web pour une petite compagnie de pâtisserie appelée Sweeny. Le site présente leurs différents produits, comme leurs beignes et leurs cupcakes, avec une présentation simple et colorée. J’ai principalement utilisé les couleurs rose, brun et blanc pour créer une ambiance douce et chaleureuse qui correspond à l’univers de la pâtisserie. J’ai aussi ajouté différentes sections pour permettre aux clients de découvrir les produits, d’en apprendre plus sur la compagnie et de la contacter. Le site est disponible en plusieurs lamgue.    
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2397931_cmontmorency_qc_ca/IgDaFWClR5RgRpz0tb7_0fREAWUZcKWt90k8Btk3YUUEWHQ?e=i6k0uN    
 
 # Projet 2 
 Nom de votre projet: Imparfaite    
@@ -71,7 +71,7 @@ Catégorie du projet: Montage Video
 Description courte du projet (Résumé en 1 phrase): Une fille qui se trouve imparfaite essaie le maquillage, mais réalise que ce n’est pas pour elle.    
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Un micro montage     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai créé un micro-montage à partir de différentes séquences vidéo pour raconter l’histoire du personnage. J’ai utilisé des transitions, des effets visuels, de la musique et du montage sonore pour créer une courte vidéo avec une ambiance cohérente. Mon équipe et moi avons utilisé des couleurs sombres afin de renforcer l’atmosphère et de rester cohérents avec le thème de la vidéo.  
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2397931_cmontmorency_qc_ca/IgDaFWClR5RgRpz0tb7_0fREAWUZcKWt90k8Btk3YUUEWHQ?e=i6k0uN    
 
 
 # Projet 3 
@@ -86,7 +86,7 @@ Catégorie du projet: Montage vidéo
 Description courte du projet (Résumé en 1 phrase): Montage Vidéo de hyunjin qui fait partie du group Kpop StrayKids    
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): X    
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Cette création est un montage de Hyunjin du groupe Stray Kids. Je l’ai créé comme cadeau pour une amie qui l’aime beaucoup. Le thème principal du montage est l’argent et le luxe. J’ai utilisé principalement les couleurs rouge, vert et blanc. Le design combine des photos de Hyunjin avec des éléments liés à l’argent pour créer une esthétique stylée.   
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):  https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2397931_cmontmorency_qc_ca/IgDaFWClR5RgRpz0tb7_0fREAWUZcKWt90k8Btk3YUUEWHQ?e=i6k0uN   
 
 # Projet 4
 Nom de votre projet: IChooseF5ve.aep    
@@ -100,7 +100,7 @@ Catégorie du projet: Montage vidéo
 Description courte du projet (Résumé en 1 phrase): Montage video du groupe F5ve    
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): X    
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Cette création est un montage vidéo de la chanson I Choose You du groupe f5ve. Je l’ai créé afin de recréer une ambiance nostalgique inspirée des années 2010. Le thème principal du montage est la nostalgie et l’esthétique de cette époque. J’ai utilisé des couleurs vives et flash ainsi que des images prises avec un iPhone SE pour renforcer cet effet nostalgique. Le montage combine différents plans et éléments visuels inspirés des années 2010 afin de créer une esthétique rétro et dynamique.
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): X    
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): Même sorte de qualité que mon vidéo montage huynjin.aep. 
 
 # Projet 5 (Optionnel)
 Nom de votre projet:     
