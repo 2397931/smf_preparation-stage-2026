@@ -145,6 +145,7 @@ Ensuite, après avoir trouvé mes inspirations, j’ai commencé le montage sur 
 
 Les étapes qui m’ont demandé le plus de temps pour ce montage vidéo ont été le rotobrush des cinq membres du groupe ainsi que la création du haut-parleur. Ce qui était difficile pour le rotobrush était de bien découper les membres dans les 61 frames qu'il y avait.
 
+<img width="1919" height="1030" alt="Screenshot 2026-09-21 005117" src="https://github.com/user-attachments/assets/94d17a33-9312-4e35-af5f-1880cc7f2646" />
 
 Au total, ce montage vidéo m’a pris quatre jours à réaliser.
 
