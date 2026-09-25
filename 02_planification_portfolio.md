@@ -43,7 +43,7 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [ ] Connaissance de systèmes de gestion de contenu (CMS)
 
 # Objectif de carrière
-Copier-coller votre objectif de carrière ici. 
+Je souhaite obtenir un poste en animation 3D où je pourrai développer mes compétences et participer à la création de projets 3D.
 
 # Projet 1 
 Nom de votre projet: Sweeny    
