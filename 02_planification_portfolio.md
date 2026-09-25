@@ -100,7 +100,7 @@ Catégorie du projet: Montage vidéo
 Description courte du projet (Résumé en 1 phrase): Montage video du groupe F5ve    
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): X    
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Cette création est un montage vidéo de la chanson I Choose You du groupe f5ve. Je l’ai créé afin de recréer une ambiance nostalgique inspirée des années 2010. Le thème principal du montage est la nostalgie et l’esthétique de cette époque. J’ai utilisé des couleurs vives et flash ainsi que des images prises avec un iPhone SE pour renforcer cet effet nostalgique. Le montage combine différents plans et éléments visuels inspirés des années 2010 afin de créer une esthétique rétro et dynamique.
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): Même sorte de qualité que mon vidéo montage huynjin.aep. 
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2397931_cmontmorency_qc_ca/IgDaFWClR5RgRpz0tb7_0fREAWUZcKWt90k8Btk3YUUEWHQ?e=i6k0uN    
 
 # Projet 5 (Optionnel)
 Nom de votre projet:     
