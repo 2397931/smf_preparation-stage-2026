@@ -1,7 +1,7 @@
 # Identification
-Ton nom:     
-Ta ville:     
-Ton courriel:     
+Ton nom: Sarah Muller François    
+Ta ville: Laval    
+Ton courriel: s.mullerfrancois17@gmail.com     
 Lien vers ton portfolio:     
 
 # Objectif de carrière
@@ -11,10 +11,10 @@ Copier-coller depuis ton journal de bord.
 # Formation
 Il n'est pas nécessaire d'inscrire votre secondaire à moins d'avoir suivi un programme spécialisé. Copier-coller les éléments suivants au besoin. Vous avez une formation de sauveteur? Un cours de premier soin? On l'inscrit ici. 
 
-Établissement fréquenté:      
-Nom de votre programme:    
-Date de début et de fin:     
-Ville:     
+Établissement fréquenté: Collège Montmorency     
+Nom de votre programme: Intégration en multimédia   
+Date de début et de fin: Août 2023 Mai 2027    
+Ville: Laval    
 
 # Emploi
 Copier-coller les éléments suivants pour chaque emploi que vous avez occupé: 
