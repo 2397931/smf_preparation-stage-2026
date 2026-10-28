@@ -43,7 +43,7 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [ ] Connaissance de systèmes de gestion de contenu (CMS)
 
 # Objectif de carrière
-Je souhaite obtenir un poste en animation 3D où je pourrai développer mes compétences et participer à la création de projets 3D.
+ Je m’intéresse particulièrement au motion design, au montage vidéo et à l’animation 2D et 3D. Mon objectif est de travailler dans un domaine créatif où je pourrai combiner ces disciplines pour donner vie à des idées et raconter des histoires à travers l’image et le mouvement. 
 
 # Projet 1 
 Nom de votre projet: Sweeny    
