@@ -1,45 +1,28 @@
 # Identification de la lettre
 
-Votre nom: Sarah Muller Francois    
-Votre courriel: s.mullerfrancois17@gmal.com    
-Votre ville: Laval    
+**Sarah Muller François**  
+Laval (Québec)  
+s.mullerfrancois17@gmal.com
 
-Nom du destinataire de la lettre: Studio Comète    
-Poste du destinataire de la lettre: X    
-Adresse de la compagnie: X    
+**Studio Comète**  
+À l’attention de la personne responsable des stages  
+[Adresse de l’entreprise]
 
-Date: 26/11/01    
+Laval, le 1er novembre 2026
 
-Lieu: Laval     
+**Objet : Candidature pour un stage en création multimédia – 2027**
 
-Objet de la lettre: Candidature stage 2027    
+Madame, Monsieur,
 
+Actuellement étudiante en Intégration multimédia au Collège Montmorency, je suis à la recherche d’un stage pour ma dernière session d’études, en 2027. Passionnée par la création visuelle, l’animation et le montage vidéo, je souhaite intégrer une entreprise qui me permettra de mettre en pratique mes connaissances tout en développant mes compétences professionnelles. Votre studio m’intéresse particulièrement pour [ajouter un élément propre à l’entreprise : ses projets, son approche créative ou ses réalisations]. Ce serait pour moi une belle occasion de contribuer à des projets créatifs et d’en apprendre davantage sur le milieu professionnel.
 
-# Premier paragraphe
+Au cours de ma formation, j’ai eu l’occasion de réaliser différents projets en animation 2D et 3D, en montage vidéo, en design graphique et en création de contenus numériques. Ces expériences m’ont permis de développer ma créativité, mon sens de l’organisation et ma maîtrise de plusieurs logiciels, notamment After Effects, Premiere Pro, Photoshop et Illustrator. J’ai également participé à des projets d’équipe, dont une réalisation audiovisuelle ayant remporté le premier prix dans sa catégorie lors d’un concours en 2025. Curieuse, polyvalente et motivée, j’aime apprendre de nouvelles techniques, relever des défis créatifs et collaborer avec d’autres personnes pour donner vie à des idées.
 
-Ce paragraphe sert d'ouverture, il présente pourquoi la compagnie vous intéresse et les connaissances que vous avez de l'entreprise. Mentionnez le poste convoité, où vous avez pris connaissance du poste et quand ? (journée carrière, références, suite à une entrevue téléphonique). Indiquez vos motivations envers le poste et l’entreprise. Faites des liens entre ce que vous savez de l’entreprise et votre intérêt pour elle : sa philosophie, la nature des services, vos valeurs et ce que vous avez à offrir.
+Je serais heureuse de pouvoir vous rencontrer afin de discuter de ma candidature et des possibilités de stage au sein de votre équipe. Je demeure disponible pour une entrevue ou pour vous fournir toute information supplémentaire.
 
+Je vous prie d’agréer, Madame, Monsieur, mes salutations distinguées.
 
-# Deuxième paragraphe
-Ce paragraphe met en valeur vos compétences et vos connaissances. Formations ou expériences, compétences, potentiel, distinction répondant aux exigences du poste. Vous expliquez quels sont vos atouts et comment ils sont utiles pour une équipe de travail.
+**Sarah Muller François**  
+[Insérer votre signature]
 
-# Troisième paragraphe
-Il sert de fermeture, vous parlez d'une perspective d'entrevue et que vous êtes prêt pour les prochaines démarches.
-
-
-Le paragraphe est terminé par une formule de politesse:  
-
-# Formule de politesse
-Voici des exemples de formules de politesse qui peuvent terminer votre lettre. Trouvez-en une qui vous convient! Elle peut être dans cette liste ou encore vous pouvez en générer une à partir des exemples suivants: 
-
-« Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées, »    
-« Je vous prie d'agréer, Madame, Monsieur, l'expression de mes sentiments distingués, »    
-« Dans l'attente de votre réponse, je vous prie d’agréer, Madame, Monsieur, l'expression de mes sincères salutations, »    
-« Dans l’attente de votre retour/réponse, je vous souhaite une agréable journée, »    
-« Dans l’attente de votre retour/réponse, je vous prie de recevoir, Madame, Monsieur, mes salutations distinguées, »    
-
-Source: <a>https://www.monster.fr/conseil-carriere/article/les-formules-de-politesse-a-priviliegier-dans-une-lettre-de-motivation</a>
-
-
-# Signature
-Signature au format image:     
+**Pièce jointe :** Curriculum vitæ    
