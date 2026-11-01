@@ -1,18 +1,18 @@
 # Identification de la lettre
 
-Votre nom:     
-Votre courriel:     
-Votre ville:     
+Votre nom: Sarah Muller Francois    
+Votre courriel: s.mullerfrancois17@gmal.com    
+Votre ville: Laval    
 
-Nom du destinataire de la lettre:     
-Poste du destinataire de la lettre:     
-Adresse de la compagnie:     
+Nom du destinataire de la lettre: Studio Comète    
+Poste du destinataire de la lettre: X    
+Adresse de la compagnie: X    
 
-Date:     
+Date: 26/11/01    
 
 Lieu: Laval     
 
-Objet de la lettre:     
+Objet de la lettre: Candidature stage 2027    
 
 
 # Premier paragraphe
