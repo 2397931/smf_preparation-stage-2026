@@ -6,8 +6,10 @@ Laval (Québec)
 
 s.mullerfrancois17@gmail.com
 
-Studio Comète
+Nom du studio
+
 À l’attention de la personne responsable des stages
+
 Nom
 
 Laval, le 1er novembre 2026
